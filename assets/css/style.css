@@ -839,7 +839,6 @@ Nav Menu style
 }
 .navbar-brand > img {
     display: block;
-    width: 80%;
 }
 
 .navbar-callus li a{
@@ -870,7 +869,7 @@ Home Section style
 ==================*/
 
 .home{
-    background: url(../images/home-bg.jpg) no-repeat scroll  center center;
+    background: url(https://www.lincoln.ac.uk/media/responsive2017/coursepageheaders/Pharmaceutical,Science,Banner.jpg) no-repeat scroll  center center;
     background-size: cover;
     position: relative;
     padding-top: 300px;
